@@ -5,3 +5,9 @@
 The Raspberry Pi running the Pwnagotchi is connected over UART to the Flipper Zero.
 
 Currently my Pwnagotchi plugin uses the "Esp32 Camera" app on the flipper to show the Pwnagotchi screen. I will develop a separate app in the future!
+
+To do:
+- clean up the plugin code
+- write instractions
+- interact with the Pwnagotchi
+- write a Flipper application
