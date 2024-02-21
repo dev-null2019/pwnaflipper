@@ -1,4 +1,4 @@
-# Connect the Pwnagotchi with the Flipper Zero - work in progress!
+# Connect the Pwnagotchi to the Flipper Zero - work in progress!
 
 ![Pwnagotchi Screen](images/pwnagotchi_screen0.jpg)
 
