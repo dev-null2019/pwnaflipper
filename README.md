@@ -8,6 +8,6 @@ Currently my Pwnagotchi plugin uses the "Esp32 Camera" app on the flipper to sho
 
 To do:
 - clean up the plugin code
-- write instractions
+- write instructions
 - interact with the Pwnagotchi
 - write a Flipper application
